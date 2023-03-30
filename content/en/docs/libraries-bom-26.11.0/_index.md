@@ -13,5 +13,5 @@ libraries-bom-26.11.0
 {{% /pageinfo %}}
 
 
-libraries-bom-26.11.0
+[libraries-bom-26.11.0](https://alicejli.github.io/javadocs-test/libraries-bom-26.11.0)
 
