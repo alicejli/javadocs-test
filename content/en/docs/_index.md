@@ -1,6 +1,6 @@
 
 ---
-title: "Documentation"
+title: "Javadocs Documentation"
 linkTitle: "Documentation"
 weight: 20
 menu:
