@@ -11,7 +11,7 @@ libraries-bom-26.11.0
 
 [you're doing great](https://alicejli.github.io/javadocs-test/lychee_wink.gif)
 
-[google-cloud-apikeys](https://alicejli.github.io/javadocs-test/libraries-bom-26.11.0/google-cloud-apikeys/)
+[google-cloud-apikeys-0.11.0](https://alicejli.github.io/javadocs-test/libraries-bom-26.11.0/google-cloud-apikeys-0.11.0/)
 
-[google-cloud-language](https://alicejli.github.io/javadocs-test/libraries-bom-26.11.0/google-cloud-language/)
+[google-cloud-language-2.14.0](https://alicejli.github.io/javadocs-test/libraries-bom-26.11.0/google-cloud-language-2.14.0/)
 
