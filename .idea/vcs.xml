@@ -36,5 +36,6 @@
   </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/docsy" vcs="Git" />
   </component>
 </project>

@@ -6,7 +6,7 @@ weight: 20
 ---
 
 {{% pageinfo %}}
-libraries-bom-26.11.0
+These are all the modules contained within libraries-bom-26.11.0.
 {{% /pageinfo %}}
 
 [you're doing great](https://alicejli.github.io/javadocs-test/lychee_wink.gif)
