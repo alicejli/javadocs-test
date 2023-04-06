@@ -135,7 +135,7 @@ url = "https://alicejli.github.io/javadocs-test/docs/libraries-bom-26.11.0/"
 
 # TODO: Script should autoupdate this
 [[params.versions]]
-version = "libraries-bom-26.10.0"
+version = "v26.10.0"
 url = "https://alicejli.github.io/javadocs-test/docs/libraries-bom-26.10.0/"
 
 #  Set to true to disable breadcrumb navigation.
